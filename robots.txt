@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loindshi.github.io/sitemap.html.gz
+Sitemap: https://loindshi.github.io/app/sitemap.html.gz
+Sitemap: https://loindshi.github.io/assets/sitemap.html.gz
+Sitemap: https://loindshi.github.io/css/sitemap.html.gz
+Sitemap: https://loindshi.github.io/includes/sitemap.html.gz
+Sitemap: https://loindshi.github.io/item/sitemap.html.gz
+Sitemap: https://loindshi.github.io/src/sitemap.html.gz
